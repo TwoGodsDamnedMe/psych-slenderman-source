@@ -1,0 +1,5 @@
+Tutorial:gf:0xFF9271FD
+Thanatophobia:slender:0xFF2B2B2B
+Static:slender:0xFF2B2B2B
+Haphephobia:slender:0xFF2B2B2B
+Engage:slender:0xFF2B2B2B
