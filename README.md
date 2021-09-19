@@ -1,7 +1,7 @@
 ## Untitled Funkers official Discord server: https://discord.gg/m6Rjg78yuS
 
 
-From Flamin': Hi! Thank you for downloading the mod! We worked hard on this for over 3 months, and we would love if you could like the mod!
+From Flamin': Hey there! We worked hard on this for over 3 months, and we would love if you could like the mod!
 
 
 ###### -- RUNNING THE MOD --
